@@ -1,3 +1,5 @@
+!Program created by Paris Alejandro
+!Any doubt contact: Paadab112@gmail.com
 Module numbers
 !arreglos
 Real(kind=8), allocatable, dimension(:) :: t, rhs
